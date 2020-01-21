@@ -29,5 +29,6 @@
     "stand_squad_ml":             "https://7014.lnsigo.mipt.ru",
     "stand_sentiment_ru":         "https://7015.lnsigo.mipt.ru",
     "stand_kbqa_ru":              "https://7016.lnsigo.mipt.ru"
+    "stand_squad_cn":             "https://7017.lnsigo.mipt.ru"
   }
 }
